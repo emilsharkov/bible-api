@@ -1,0 +1,6 @@
+**/scraping
+**/deno.lock
+**/*.xml
+**/*.json
+**/*.sql
+**/*.mp3
